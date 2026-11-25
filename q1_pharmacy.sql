@@ -1,5 +1,5 @@
 -- ICT371 Question 1: Pharmacy Stock and Daily Sales
--- Name: (your name)   Student number: (your number)
+-- Name: CHRISTABEL CHIKOMONA   Student number: 201901101
 
 DROP TABLE IF EXISTS daily_sales, stock_audit, sales, medicines CASCADE;
 
